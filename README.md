@@ -8,6 +8,9 @@ Tiny Node.js/Express app with security-minded CI hygiene:
 > Scope is intentionally small. This repo demonstrates disciplined delivery, not enterprise security coverage.
 
 ---
+## Status
+![CI](https://github.com/oswaldo-reategui/security-ci-demo-hello-web/actions/workflows/ci.yml/badge.svg)
+
 
 ## Quick Start (local, no global installs)
 **Prerequisite:** Docker (or Docker Desktop)
